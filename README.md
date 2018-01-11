@@ -1,4 +1,9 @@
 # solgitsolgit
+## week 3(2018-01-11~2018-01-18)
+1. 분할 정복 - FENCE https://algospot.com/judge/problem/read/FENCE
+2. 동적 계획법 - WILDCARD https://algospot.com/judge/problem/read/WILDCARD
+3. 동적 계획법 - TRIANGLEPATH https://algospot.com/judge/problem/read/TRIANGLEPATH
+
 ## week 2(2018-01-04~2018-01-11)
 1. 무식하게 풀기 - 시계 맞추기 https://algospot.com/judge/problem/read/CLOCKSYNC 
 2. 분할 정복 - 쿼드 트리 뒤집기 https://algospot.com/judge/problem/read/QUADTREE
