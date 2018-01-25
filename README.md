@@ -1,4 +1,11 @@
 # solgitsolgit
+## week 4(2018-01-18~2018-01-25)
+1. 동적 계획법 - TILING2 https://algospot.com/judge/problem/read/TILING2
+2. 동적 계획법 - TRIPATHCNT https://algospot.com/judge/problem/read/TRIPATHCNT
+3. 탐욕법 - MEETINGROOM https://algospot.com/judge/problem/read/MEETINGROOM 
+
+(3번은 감정이입되서 문제 이해 잘 되실 듯. 이번주도 화이팅..!)
+
 ## week 3(2018-01-11~2018-01-18)
 1. 분할 정복 - FENCE https://algospot.com/judge/problem/read/FENCE
 2. 동적 계획법 - WILDCARD https://algospot.com/judge/problem/read/WILDCARD
