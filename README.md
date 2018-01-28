@@ -1,4 +1,12 @@
 # solgitsolgit
+## week 5(2018-01-25~2018-02-01)
+1. 동적 계획법 - ASYMTILING https://algospot.com/judge/problem/read/ASYMTILING
+2. 동저 계획법 - POLY https://algospot.com/judge/problem/read/POLY
+3. 탐욕법 - MATCHORDER https://algospot.com/judge/problem/read/MATCHORDER
+
++추가로 풀어보면 좋을 것 같은 문제 
+https://leetcode.com/problems/task-scheduler/description/
+
 ## week 4(2018-01-18~2018-01-25)
 1. 동적 계획법 - TILING2 https://algospot.com/judge/problem/read/TILING2
 2. 동적 계획법 - TRIPATHCNT https://algospot.com/judge/problem/read/TRIPATHCNT
