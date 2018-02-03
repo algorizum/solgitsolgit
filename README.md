@@ -1,10 +1,21 @@
 # solgitsolgit
+## week 6(2018-02-01~2018-02-08)
+1. 동적 계획법 - NUMB3RS https://algospot.com/judge/problem/read/NUMB3RS
+2. 탐욕법 - LUNCHBOX https://algospot.com/judge/problem/read/LUNCHBOX#c15287
+3. 동적 계획법 - PACKING https://algospot.com/judge/problem/read/PACKING
+
+\+ 추가로 풀어보면 좋을 것 같은 문제  
+https://leetcode.com/problems/queue-reconstruction-by-height/description/
+
+3번 문제는 knapsack problem 이라고 부르는 유명한 문제라고 합니다.   
+벌써 6주차네요! 이번주도 화이팅!!
+
 ## week 5(2018-01-25~2018-02-01)
 1. 동적 계획법 - ASYMTILING https://algospot.com/judge/problem/read/ASYMTILING
 2. 동저 계획법 - POLY https://algospot.com/judge/problem/read/POLY
 3. 탐욕법 - MATCHORDER https://algospot.com/judge/problem/read/MATCHORDER
 
-+추가로 풀어보면 좋을 것 같은 문제 
++추가로 풀어보면 좋을 것 같은 문제    
 https://leetcode.com/problems/task-scheduler/description/
 
 ## week 4(2018-01-18~2018-01-25)
