@@ -2,10 +2,10 @@ import java.io.*;
 import java.util.*;
 
 public class NUMBERS {
-	private static double[] hidingPro;
+	//private static double[] hidingPro;
 	public static void main(String[] args) throws IOException {
-		InputStreamReader fr = new InputStreamReader(System.in);
-		//FileReader fr = new FileReader("input.txt");
+		//InputStreamReader fr = new InputStreamReader(System.in);
+		FileReader fr = new FileReader("input.txt");
 		BufferedReader br = new BufferedReader(fr);
 		StringTokenizer tokenizer = new StringTokenizer(br.readLine());
 
@@ -17,7 +17,7 @@ public class NUMBERS {
 			int d = Integer.valueOf(tokenizer.nextToken());
 			int p = Integer.valueOf(tokenizer.nextToken());
 			int[][] linked = new int[n][n];
-			hidingPro = new double[n];
+			double[]hidingPro = new double[n];
 			double[] linkcnt = new double[n];
 
 			for (int j = 0; j < n; j++) {
@@ -33,7 +33,7 @@ public class NUMBERS {
 
 			hidingPro[p] = 1;
 
-			getHidingProbability(linked, linkcnt, d);
+			hidingPro=getHidingProbability(linked, linkcnt,hidingPro, d);
 
 			tokenizer = new StringTokenizer(br.readLine());
 			int t = Integer.valueOf(tokenizer.nextToken());
@@ -47,7 +47,7 @@ public class NUMBERS {
 		}
 	}
 
-	private static void getHidingProbability(int[][] linked, double[] linkCnt, int d) {
+	private static double[] getHidingProbability(int[][] linked, double[] linkCnt,double[] hidingPro, int d) {
 
 		for (int i = 0; i < d; i++) {
 			double[] tmp = new double[hidingPro.length];
@@ -62,6 +62,7 @@ public class NUMBERS {
 			}
 			hidingPro = tmp;
 		}
+		return hidingPro;
 	}
 
 }
