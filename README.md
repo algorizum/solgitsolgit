@@ -1,4 +1,15 @@
 # solgitsolgit
+## week 7(2018-02-08~2018-02-22)   
+1. 동적 계획법 - COINS https://algospot.com/judge/problem/read/COINS
+2. 동적 계획법 - BLOCKGAME https://algospot.com/judge/problem/read/BLOCKGAME
+3. 탐욕법 - STRJOIN https://algospot.com/judge/problem/read/STRJOIN
+4. 조합 탐색 - BOARDCOVER2 https://algospot.com/judge/problem/read/BOARDCOVER2
+
+이번 주는 설이라 스터디는 패스네요! 모두 맛있는 음식 많이 드시고, 반가운 얼굴들도 만나는 행복한 설연휴 되시길 바랍니다!   
+혹\~~시 연휴에 심심하실까봐 이번 주는 문제를 하나 더 추가해 보았어요..너무너무 심심하시면 한번 읽어보시면 어떨까요..ㅎㅎ    
+그럼 모두 건강한 모습으로 2/22에 봬요!
+
+
 ## week 6(2018-02-01~2018-02-08)
 1. 동적 계획법 - NUMB3RS https://algospot.com/judge/problem/read/NUMB3RS
 2. 탐욕법 - LUNCHBOX https://algospot.com/judge/problem/read/LUNCHBOX#c15287
